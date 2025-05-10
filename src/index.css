@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "pricedown";
+  src: url("./public/forpush/pricedown.otf");
+}
+
+html,
+body {
+    overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+  font-family: "pricedown";
+}
+
+.custom-font {
+  font-family: 'Poppins', sans-serif;
+}
