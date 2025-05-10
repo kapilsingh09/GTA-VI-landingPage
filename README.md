@@ -1,12 +1,41 @@
-# React + Vite
+# GTA VI Animated Landing Page 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish and interactive landing page inspired by **GTA VI**, built with **React**, **Tailwind CSS**, and **GSAP**.  
+It features an animated SVG mask revealing the “VI” logo, a smooth black-to-transparent gradient bottom bar, and a bouncing scroll-down indicator to guide users.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎬 **GSAP SVG mask animation**
+- 🎨 Black-to-transparent **gradient bottom overlay**
+- 🔽 Animated **scroll-down arrow**
+- ⚡ Built with **React** and **Tailwind CSS**
+- 📱 Fully **responsive and mobile-friendly**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+## 💻 Technologies Used
+
+- **React**
+- **Tailwind CSS**
+- **GSAP**
+- **Remix Icon** (for the arrow icon)
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/gta-vi-landing.git
+
+# Navigate into the project folder
+cd gta-vi-landing
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
